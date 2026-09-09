@@ -1,0 +1,24 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache & Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDE Configuration
+.vscode/
+.idea/
+
+# Saved Models & Logs
+*.joblib
+*.pkl
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
